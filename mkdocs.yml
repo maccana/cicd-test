@@ -5,7 +5,7 @@ theme:
   name: material
   palette:
     scheme: slate
-    
+
 plugins:
   - search
   - blog:
@@ -13,7 +13,7 @@ plugins:
       blog_dir: blog
       # Define the author explicitly inside the plugin itself
       authors: true
-      authors_file: .authors.yml
+      authors_file: authors.yml
 
 nav:
   - Home: index.md
