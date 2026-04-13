@@ -5,15 +5,7 @@ theme:
   name: material
   palette:
     scheme: slate
-
-extra:
-  blog:
-    authors:
-      mike:
-        name: Mike McCann
-        url: https://github.com/maccana
-        avatar: https://github.com/maccana.png
-
+    
 plugins:
   - search
   - blog:
