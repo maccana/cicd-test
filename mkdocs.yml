@@ -21,10 +21,9 @@ plugins:
 extra:
   blog:
     authors:
-      mike:
+      mike:  # <--- This is the ID the plugin looks for
         name: Mike McCann
-        url: https://github.com/your-username
-        avatar: https://github.com/your-username.png
+        url: https://github.com/maccana
 
 nav:
   - Home: index.md
