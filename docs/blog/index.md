@@ -1,3 +1,3 @@
 # Blog Archive
 
-Welcome to my technical writing blog.
+Welcome to my technical writing blog. API.
