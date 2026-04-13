@@ -14,19 +14,12 @@ theme:
     - navigation.tracking
     - content.code.copy
 
-# Define the people first
-extra:
-  blog:
-    authors:
-      mike:
-        name: Mike McCann
-        url: https://github.com/maccana
-        avatar: https://github.com/maccana.png
-
 plugins:
   - blog:
       post_dir: blog/posts
       blog_dir: blog
+      authors_file: authors.yml  # <--- This is the key change
+      
 
 nav:
   - Home: index.md
