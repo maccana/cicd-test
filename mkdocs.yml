@@ -19,13 +19,18 @@ plugins:
   - blog:
       post_dir: blog/posts
       blog_dir: blog
+      authors:
+        mike:
+          name: Mike McCann
+          url: https://github.com/maccana
+          avatar: https://github.com/maccana.png
 
+# You can keep 'extra' for other site-wide settings later, 
+# but we've moved the author logic to where it's most needed.
 extra:
-  blog:
-    authors:
-      mike:  # <--- This is the ID the plugin looks for
-        name: Mike McCann
-        url: https://github.com/maccana
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/maccana
 
 nav:
   - Home: index.md
