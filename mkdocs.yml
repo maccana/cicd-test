@@ -15,8 +15,10 @@ theme:
     - content.code.copy
 
 plugins:
+  - search
   - blog:
-      post_url_format: "{slug}" # This only needs the filename, much safer!
+      post_dir: blog/posts
+      blog_dir: blog
 
 extra:
   blog:
