@@ -1,6 +1,10 @@
 site_name: API Docs - CI/CD Tutorial
 theme:
   name: material
+palette:
+  - scheme: slate
+    primary: indigo
+    accent: indigo
 
 nav:
   - Getting Started: index.md
