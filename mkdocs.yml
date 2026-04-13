@@ -11,11 +11,14 @@ plugins:
   - blog:
       post_dir: blog/posts
       blog_dir: blog
-      # Define the author explicitly inside the plugin itself
       authors: true
-      authors_file: authors.yml
+      authors_mapping:
+        mike:
+          name: Mike McCann
+          url: https://github.com/maccana
+          avatar: https://github.com/maccana.png
 
 nav:
   - Home: index.md
-  - Blog: blog/index.md   # <--- Point directly to the file
+  - Blog: blog/index.md
   - Pipeline Test: test2.md
