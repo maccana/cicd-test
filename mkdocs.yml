@@ -4,4 +4,4 @@ theme:
 
 nav:
   - Home: index.md
-  - Test: test2.md
+  - CI/CD: test2.md
