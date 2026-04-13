@@ -3,5 +3,5 @@ theme:
   name: material
 
 nav:
-  - Home: index.md
+  - Getting Started: index.md
   - CI/CD: test2.md
