@@ -15,11 +15,8 @@ theme:
     - content.code.copy
 
 plugins:
-  - search
   - blog:
-      post_dir: blog/posts
-      blog_dir: blog
-      post_url_format: "{year}/{month}/{day}/{slug}"
+      post_url_format: "{slug}" # This only needs the filename, much safer!
 
 extra:
   blog:

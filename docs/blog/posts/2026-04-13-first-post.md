@@ -1,6 +1,7 @@
 ---
 date: 2026-04-13
-authors: [mike]
+authors:
+  - mike
 categories:
   - Career Pivot
 ---
