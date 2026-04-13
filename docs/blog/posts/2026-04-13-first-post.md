@@ -1,7 +1,6 @@
 ---
 date: 2026-04-13
-authors:
-  - mike
+authors: [mike]
 ---
 
 # Why I'm Building an API Language Portal

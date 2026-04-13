@@ -15,7 +15,7 @@ theme:
     - content.code.copy
 
 plugins:
-  - blog:
+- blog:
       post_dir: blog/posts
       blog_dir: blog
       authors_file: authors.yml  # <--- This is the key change
