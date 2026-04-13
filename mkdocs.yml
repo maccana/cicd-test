@@ -14,11 +14,7 @@ theme:
     - navigation.tracking
     - content.code.copy
 
-plugins:
-  - blog:
-      post_dir: blog/posts
-      blog_dir: blog
-
+# Define the people first
 extra:
   blog:
     authors:
@@ -26,6 +22,11 @@ extra:
         name: Mike McCann
         url: https://github.com/maccana
         avatar: https://github.com/maccana.png
+
+plugins:
+  - blog:
+      post_dir: blog/posts
+      blog_dir: blog
 
 nav:
   - Home: index.md
