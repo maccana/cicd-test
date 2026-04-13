@@ -1,10 +1,14 @@
 ---
 date: 2026-04-13
 authors: [mike]
+categories: [General]
 ---
 
-# Why I'm Building an API Language Portal
+# Welcome to the API English Portal
 
-Moving from ESL instruction to **API Technical Writing** isn't just a career change—it's a translation of skills. 
+This is the inaugural post of my portfolio. This site is designed to bridge the gap between technical API documentation and linguistic precision.
 
-In this post, I explore why clear communication is the most underrated skill in DevOps. By using a "Docs-as-Code" approach, I am ensuring that my teaching tools are as robust as the APIs they describe.
+## Project Goals
+* Establish a "Docs-as-Code" workflow.
+* Showcase technical writing samples.
+* Demonstrate CI/CD integration with GitHub Actions.
