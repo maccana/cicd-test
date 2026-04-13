@@ -15,22 +15,17 @@ theme:
     - content.code.copy
 
 plugins:
-  - search
   - blog:
       post_dir: blog/posts
       blog_dir: blog
-      authors:
-        mike:
-          name: Mike McCann
-          url: https://github.com/maccana
-          avatar: https://github.com/maccana.png
 
-# You can keep 'extra' for other site-wide settings later, 
-# but we've moved the author logic to where it's most needed.
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/maccana
+  blog:
+    authors:
+      mike:
+        name: Mike McCann
+        url: https://github.com/maccana
+        avatar: https://github.com/maccana.png
 
 nav:
   - Home: index.md
