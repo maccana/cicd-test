@@ -19,6 +19,9 @@ plugins:
   - blog:
       post_dir: blog/posts
       blog_dir: blog
+      # Define the author explicitly inside the plugin itself
+      authors: true
+      authors_file: .authors.yml
 
 nav:
   - Home: index.md
