@@ -1,14 +1,8 @@
 ---
 date: 2026-04-13
-authors: [mike]
-categories: [General]
+authors:
+  - guest
 ---
 
-# Welcome to the API English Portal
-
-This is the inaugural post of my portfolio. This site is designed to bridge the gap between technical API documentation and linguistic precision.
-
-## Project Goals
-* Establish a "Docs-as-Code" workflow.
-* Showcase technical writing samples.
-* Demonstrate CI/CD integration with GitHub Actions.
+# Pipeline Diagnostic Post
+If you can see this, the 'guest' author worked, but 'mike' is still having registration issues.
