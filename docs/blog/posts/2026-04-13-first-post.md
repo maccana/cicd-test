@@ -1,7 +1,5 @@
 ---
 date: 2026-04-13
-authors:
-  - guest
 ---
 
 # Pipeline Diagnostic Post
