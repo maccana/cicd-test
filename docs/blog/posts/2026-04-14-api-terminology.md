@@ -1,6 +1,7 @@
 ---
 date: 2026-04-14
-authors: [mike]
+authors:
+  - mike
 ---
 
 # The 'H' in Webhooks: A Phonetic Guide
