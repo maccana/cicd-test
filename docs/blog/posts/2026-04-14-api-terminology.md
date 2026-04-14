@@ -1,5 +1,5 @@
 ---
-date: 2026-04-14
+title: Second post
 authors:
   - mike
 ---

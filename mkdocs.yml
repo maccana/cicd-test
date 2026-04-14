@@ -12,11 +12,7 @@ plugins:
       post_dir: blog/posts
       blog_dir: blog
       authors: true
-      authors_mapping:
-        mike:
-          name: Mike McCann
-          url: https://github.com/maccana
-          avatar: https://github.com/maccana.png
+      authors_file: "{blog}/.authors.yml"
 
 nav:
   - Home: index.md
