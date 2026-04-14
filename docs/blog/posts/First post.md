@@ -1,4 +1,5 @@
 ---
+date: 2026-04-13
 title: First post
 authors:
   - mike
