@@ -9,7 +9,7 @@ This is a mock representation of how we will document your API language tools.
 | :--- | :--- | :--- | :--- |
 | `/glossary/terms` | `GET` | Retrieve all API terms | Vocabulary |
 | `/coaching/book` | `POST` | Schedule a 1:1 session | Career Growth |
-| `/auth/login` | `POST` | User authentication | - |
+| `/auth/login` | `POST` | User authentication | Security |
 
 ## Technical Writing Samples
 !!! info "Documentation Standard"
