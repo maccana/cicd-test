@@ -4,3 +4,8 @@ authors:
     description: Technical writer and IT English Coach
     url: https://github.com/maccana
     avatar: https://github.com/maccana.png 
+  guest:
+    name: Guest
+    description: Guest Writer
+    url: https://github.com/maccana
+    avatar: https://github.com/maccana.png   
