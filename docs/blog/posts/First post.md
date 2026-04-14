@@ -1,6 +1,6 @@
 ---
 date: 2026-04-13
-title: First post
+title: Troubleshooting blog author error in Github Actions 
 authors:
   - mike
 ---
