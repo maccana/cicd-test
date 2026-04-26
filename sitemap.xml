@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/test2/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/2026/04/13/troubleshooting-blog-author-error-in-github-actions/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/2026/04/26/day-1---apis-in-postman-for-technical-writers/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/2026/04/15/second-post/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/2026/04/16/api-vocabularly-essentials/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+    <url>
+         <loc>https://maccana.github.io/api-english-portal/blog/archive/2026/</loc>
+         <lastmod>2026-04-26</lastmod>
+    </url>
+</urlset>
