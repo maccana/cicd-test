@@ -14,7 +14,7 @@ tags:
 
 # API vocabulary essentials
 
-This post explores the most important terms used in API design and development.
+This article explores the most important terms used in API design and development.
 
 ## 1. API
 
