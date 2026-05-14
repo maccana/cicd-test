@@ -1,4 +1,3 @@
-```markdown
 # CI/CD MkDocs Documentation Demo
 
 This repository demonstrates a minimal continuous integration and deployment (CI/CD) workflow for publishing a documentation site using **MkDocs with the Material theme**. It is designed as a reference implementation for structuring documentation and automating deployment with GitHub Actions.
@@ -59,4 +58,3 @@ This ensures that updates to the documentation are reflected on the live site au
 ## License
 
 This project is provided for demonstration purposes and can be adapted for your own documentation workflow.
-```
